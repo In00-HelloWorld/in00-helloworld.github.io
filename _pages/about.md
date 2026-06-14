@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate · Aerospace Engineering · UIUC
 
 profile:
   align: right
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Inyoung Kim. I am a Ph.D. student in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign (UIUC). I received my B.S. with a double major in Mechanical Engineering and Electrical and Computer Engineering from Seoul National University in 2024. My research focuses on developing **safe and robust autonomous robotic systems** by integrating **learning-based methods** with **control theory**. Feel free to reach out via email if you have any questions or are interested in my research.
+Hi, I’m Inyoung Kim. I am a Ph.D. student in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign (UIUC), where I am advised by Prof. Hiroyasu Tsukamoto at the N-ACXIS Lab. I received my B.S. with a double major in Mechanical Engineering and Electrical and Computer Engineering from Seoul National University in 2024. My research focuses on developing **safe and robust autonomous robotic systems** by integrating **learning-based methods** with **control theory**. Feel free to reach out via email if you have any questions or are interested in my research.
